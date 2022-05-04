@@ -11,4 +11,4 @@ microservice:
   User-Service:
     endpoints:
       endpoint:
-        uri: http://Departmet-Service/departments/
+        uri: http://DEPARTMET-SERVICE/departments/
